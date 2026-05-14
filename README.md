@@ -20,7 +20,8 @@ Designed and developed an interactive Power BI dashboard to analyze sales perfor
 - Star Schema
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Add-Your-Image-Link-Here)
+
+![Dashboard Screenshot](dashboard.png)
 
 ## 📈 Key Insights
 - Identified top and low-performing products

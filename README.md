@@ -22,16 +22,16 @@ Designed and developed an interactive Power BI dashboard to analyze sales perfor
 # 📷 Dashboard Screenshots
 
 ## Dashboard 1
-![Dashboard 1](Screenshot%202026-05-14%20131223.png)
+![Dashboard 1](images/Screenshot%202026-05-14%20131223.png)
 
 ## Dashboard 2
-![Dashboard 2](Screenshot%202026-05-14%20131246.png)
+![Dashboard 2](images/Screenshot%202026-05-14%20131246.png)
 
 ## Dashboard 3
-![Dashboard 3](Screenshot%202026-05-14%20131310.png)
+![Dashboard 3](images/Screenshot%202026-05-14%20131310.png)
 
 ## Dashboard 4
-![Dashboard 4](Screenshot%202026-05-14%20131336.png)
+![Dashboard 4](images/Screenshot%202026-05-14%20131336.png)
 
 ## 📈 Key Insights
 - Identified top and low-performing products
